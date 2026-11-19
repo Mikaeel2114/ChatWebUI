@@ -1,23 +1,23 @@
 {
   "status": "online",
-  "url_payload": "aHR0cHM6Ly9jbG9ja3MtdXJnZW50LXRodW1ibmFpbHMtbGVnaXNsYXR1cmUudHJ5Y2xvdWRmbGFyZS5jb20=",
-  "public_api_key": "sk-uc-349ec54754f29bbff546c088867a6159",
-  "api_key": "sk-uc-349ec54754f29bbff546c088867a6159",
+  "url_payload": "aHR0cHM6Ly9uZXdlci1xdWVlbnMtcG93ZXJmdWwtYXBwbGljYW50cy50cnljbG91ZGZsYXJlLmNvbQ==",
+  "public_api_key": "sk-uc-ea1c9d27ceb4154d47ab44c3ec5f87e2",
+  "api_key": "sk-uc-ea1c9d27ceb4154d47ab44c3ec5f87e2",
   "model": "یونیکالکت چت مینی",
   "model_id": "unicollect-chat-mini",
   "creator": "Muvixo",
   "routes": {
-    "openai_base_url": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/v1",
-    "chat_completions": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/v1/chat/completions",
-    "v1_chat_completions": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/api/v1/chat/completions",
-    "models": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/v1/models",
-    "native_chat": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/api/v1/chat",
-    "native_stream": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/api/v1/chat/stream",
-    "key": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/api/v1/key",
-    "health": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/api/v1/health"
+    "openai_base_url": "https://newer-queens-powerful-applicants.trycloudflare.com/v1",
+    "chat_completions": "https://newer-queens-powerful-applicants.trycloudflare.com/v1/chat/completions",
+    "v1_chat_completions": "https://newer-queens-powerful-applicants.trycloudflare.com/api/v1/chat/completions",
+    "models": "https://newer-queens-powerful-applicants.trycloudflare.com/v1/models",
+    "native_chat": "https://newer-queens-powerful-applicants.trycloudflare.com/api/v1/chat",
+    "native_stream": "https://newer-queens-powerful-applicants.trycloudflare.com/api/v1/chat/stream",
+    "key": "https://newer-queens-powerful-applicants.trycloudflare.com/api/v1/key",
+    "health": "https://newer-queens-powerful-applicants.trycloudflare.com/api/v1/health"
   },
-  "updated_at": "2026-11-19T21:38:12+00:00",
-  "run_url": "https://github.com/Mikaeel2114/ChatWebUI/actions/runs/44620725233",
-  "run_number": 1,
+  "updated_at": "2026-11-19T21:39:18+00:00",
+  "run_url": "https://github.com/Mikaeel2114/ChatWebUI/actions/runs/44620328716",
+  "run_number": 2,
   "commit": "628348a"
 }
