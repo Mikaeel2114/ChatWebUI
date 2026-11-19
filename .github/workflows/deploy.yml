@@ -15,6 +15,11 @@ on:
         description: "Ultra-lightweight router model (default gemma3:1b, ~398MB, classifies MATH vs CHAT)"
         required: false
         default: "gemma3:1b"
+      runtime_minutes:
+        description: "Managed runtime in minutes before graceful handoff/stop (default 300, range 15-345)"
+        required: false
+        type: string
+        default: "300"
       reason:
         description: "Why this run was started (manual, handoff, heartbeat)"
         required: false
@@ -35,8 +40,9 @@ env:
   MODEL_LABEL: "Unicollect Chat Mini"
   MATH_MODEL_LABEL: "Unicollect Math Model"
   APP_TOKEN: ${{ secrets.PANEL_TOKEN }}
-  HANDOFF_MIN: "290"
-  HARD_STOP_MIN: "345"
+  RUNTIME_MINUTES: ${{ github.event.inputs.runtime_minutes || '300' }}
+  HANDOFF_MIN: "285"
+  HARD_STOP_MIN: "300"
 
 jobs:
   deploy:
@@ -47,6 +53,18 @@ jobs:
       - name: Mark job start & Generate Backend Public API Key
         run: |
           echo "JOB_T0=$(date +%s)" >> "$GITHUB_ENV"
+          RAW_RT="${RUNTIME_MINUTES:-300}"
+          case "$RAW_RT" in
+            ''|*[!0-9]*) RT=300 ;;
+            *) RT="$RAW_RT" ;;
+          esac
+          [ "$RT" -lt 15 ] && RT=15
+          [ "$RT" -gt 345 ] && RT=345
+          HO=$((RT - 15))
+          [ "$HO" -lt 10 ] && HO=10
+          echo "RUNTIME_MINUTES=$RT" >> "$GITHUB_ENV"
+          echo "HARD_STOP_MIN=$RT" >> "$GITHUB_ENV"
+          echo "HANDOFF_MIN=$HO" >> "$GITHUB_ENV"
           KEY="${{ secrets.PUBLIC_API_KEY }}"
           if [ -z "$KEY" ]; then
             KEY="$(python3 -c 'import secrets; print("sk-uc-" + secrets.token_hex(16))')"
@@ -56,6 +74,7 @@ jobs:
           echo "=================================================================="
           echo "Backend Generated Public API Key (KEY): $KEY"
           echo "Model Name                            : یونیکالکت چت مینی (by Muvixo)"
+          echo "Managed Runtime                       : ${RT} min (handoff at ${HO} min)"
           echo "=================================================================="
 
       - name: Checkout repository
@@ -171,6 +190,7 @@ jobs:
             echo "| Item | Value / Route |"
             echo "|---|---|"
             echo "| **Model** | \`یونیکالکت چت مینی\` (\`unicollect-chat-mini\`) |"
+            echo "| **Managed Runtime** | \`${RUNTIME_MINUTES} min\` (handoff at \`${HANDOFF_MIN} min\`) |"
             echo "| **Public API Key (KEY)** | \`$PUBLIC_API_KEY\` |"
             echo "| **OpenAI / 9router Base URL** | \`$URL/v1\` |"
             echo "| **Chat Completions Route** | \`POST $URL/v1/chat/completions\` |"
@@ -204,7 +224,7 @@ jobs:
 
             if [ "$HANDED_OFF" = "0" ] && [ "$E" -ge "$HANDOFF_MIN" ]; then
               echo "Starting successor run at ${E} min..."
-              if gh workflow run deploy.yml --repo "$GITHUB_REPOSITORY" --ref "$REF" -f model="$MODEL_NAME" -f math_model="$MATH_MODEL" -f router_model="$ROUTER_MODEL" -f reason="handoff from run ${ME}"; then
+              if gh workflow run deploy.yml --repo "$GITHUB_REPOSITORY" --ref "$REF" -f model="$MODEL_NAME" -f math_model="$MATH_MODEL" -f router_model="$ROUTER_MODEL" -f runtime_minutes="$RUNTIME_MINUTES" -f reason="handoff from run ${ME}"; then
                 HANDED_OFF=1; echo "Successor requested at ${E} min (run ${ME})." >> "$GITHUB_STEP_SUMMARY"
               else
                 echo "::warning::could not start successor; heartbeat will cover it"
