@@ -3,113 +3,113 @@
   "model": "یونیکالکت چت مینی",
   "model_id": "unicollect-chat-mini",
   "creator": "Muvixo",
-  "public_api_key": "sk-uc-6536ee1baff734014017b6627966b604",
-  "api_key": "sk-uc-6536ee1baff734014017b6627966b604",
+  "public_api_key": "sk-uc-488ce073195aa3f86004e99ee8b61f1e",
+  "api_key": "sk-uc-488ce073195aa3f86004e99ee8b61f1e",
   "status": "online",
   "online": true,
-  "base_url": "https://nathan-chevy-illustration-pricing.trycloudflare.com",
+  "base_url": "https://viewed-swimming-rrp-road.trycloudflare.com",
   "routes": {
-    "openai_base_url": "https://nathan-chevy-illustration-pricing.trycloudflare.com/v1",
-    "chat_completions": "https://nathan-chevy-illustration-pricing.trycloudflare.com/v1/chat/completions",
-    "v1_chat_completions": "https://nathan-chevy-illustration-pricing.trycloudflare.com/api/v1/chat/completions",
-    "models": "https://nathan-chevy-illustration-pricing.trycloudflare.com/v1/models",
-    "native_chat": "https://nathan-chevy-illustration-pricing.trycloudflare.com/api/v1/chat",
-    "native_stream": "https://nathan-chevy-illustration-pricing.trycloudflare.com/api/v1/chat/stream",
-    "key": "https://nathan-chevy-illustration-pricing.trycloudflare.com/api/v1/key",
-    "health": "https://nathan-chevy-illustration-pricing.trycloudflare.com/api/v1/health"
+    "openai_base_url": "https://viewed-swimming-rrp-road.trycloudflare.com/v1",
+    "chat_completions": "https://viewed-swimming-rrp-road.trycloudflare.com/v1/chat/completions",
+    "v1_chat_completions": "https://viewed-swimming-rrp-road.trycloudflare.com/api/v1/chat/completions",
+    "models": "https://viewed-swimming-rrp-road.trycloudflare.com/v1/models",
+    "native_chat": "https://viewed-swimming-rrp-road.trycloudflare.com/api/v1/chat",
+    "native_stream": "https://viewed-swimming-rrp-road.trycloudflare.com/api/v1/chat/stream",
+    "key": "https://viewed-swimming-rrp-road.trycloudflare.com/api/v1/key",
+    "health": "https://viewed-swimming-rrp-road.trycloudflare.com/api/v1/health"
   },
   "links": {
-    "panel": "https://nathan-chevy-illustration-pricing.trycloudflare.com",
-    "openai_base": "https://nathan-chevy-illustration-pricing.trycloudflare.com/v1",
-    "chat_completions": "https://nathan-chevy-illustration-pricing.trycloudflare.com/v1/chat/completions",
-    "api": "https://nathan-chevy-illustration-pricing.trycloudflare.com/api/v1",
-    "key": "https://nathan-chevy-illustration-pricing.trycloudflare.com/api/v1/key",
-    "health": "https://nathan-chevy-illustration-pricing.trycloudflare.com/api/v1/health",
-    "swagger": "https://nathan-chevy-illustration-pricing.trycloudflare.com/docs",
-    "redoc": "https://nathan-chevy-illustration-pricing.trycloudflare.com/redoc",
-    "openapi": "https://nathan-chevy-illustration-pricing.trycloudflare.com/openapi.json",
-    "guide": "https://nathan-chevy-illustration-pricing.trycloudflare.com/api-docs",
-    "public_key_page": "https://nathan-chevy-illustration-pricing.trycloudflare.com/site/public-key/"
+    "panel": "https://viewed-swimming-rrp-road.trycloudflare.com",
+    "openai_base": "https://viewed-swimming-rrp-road.trycloudflare.com/v1",
+    "chat_completions": "https://viewed-swimming-rrp-road.trycloudflare.com/v1/chat/completions",
+    "api": "https://viewed-swimming-rrp-road.trycloudflare.com/api/v1",
+    "key": "https://viewed-swimming-rrp-road.trycloudflare.com/api/v1/key",
+    "health": "https://viewed-swimming-rrp-road.trycloudflare.com/api/v1/health",
+    "swagger": "https://viewed-swimming-rrp-road.trycloudflare.com/docs",
+    "redoc": "https://viewed-swimming-rrp-road.trycloudflare.com/redoc",
+    "openapi": "https://viewed-swimming-rrp-road.trycloudflare.com/openapi.json",
+    "guide": "https://viewed-swimming-rrp-road.trycloudflare.com/api-docs",
+    "public_key_page": "https://viewed-swimming-rrp-road.trycloudflare.com/site/public-key/"
   },
   "endpoints": [
     {
       "method": "GET",
       "path": "/api/v1/key",
-      "url": "https://nathan-chevy-illustration-pricing.trycloudflare.com/api/v1/key"
+      "url": "https://viewed-swimming-rrp-road.trycloudflare.com/api/v1/key"
     },
     {
       "method": "POST",
       "path": "/v1/chat/completions",
-      "url": "https://nathan-chevy-illustration-pricing.trycloudflare.com/v1/chat/completions"
+      "url": "https://viewed-swimming-rrp-road.trycloudflare.com/v1/chat/completions"
     },
     {
       "method": "GET",
       "path": "/v1/models",
-      "url": "https://nathan-chevy-illustration-pricing.trycloudflare.com/v1/models"
+      "url": "https://viewed-swimming-rrp-road.trycloudflare.com/v1/models"
     },
     {
       "method": "POST",
       "path": "/api/v1/chat",
-      "url": "https://nathan-chevy-illustration-pricing.trycloudflare.com/api/v1/chat"
+      "url": "https://viewed-swimming-rrp-road.trycloudflare.com/api/v1/chat"
     },
     {
       "method": "POST",
       "path": "/api/v1/chat/stream",
-      "url": "https://nathan-chevy-illustration-pricing.trycloudflare.com/api/v1/chat/stream"
+      "url": "https://viewed-swimming-rrp-road.trycloudflare.com/api/v1/chat/stream"
     },
     {
       "method": "POST",
       "path": "/api/v1/chat/completions",
-      "url": "https://nathan-chevy-illustration-pricing.trycloudflare.com/api/v1/chat/completions"
+      "url": "https://viewed-swimming-rrp-road.trycloudflare.com/api/v1/chat/completions"
     },
     {
       "method": "POST",
       "path": "/api/v1/generate",
-      "url": "https://nathan-chevy-illustration-pricing.trycloudflare.com/api/v1/generate"
+      "url": "https://viewed-swimming-rrp-road.trycloudflare.com/api/v1/generate"
     },
     {
       "method": "GET",
       "path": "/api/v1",
-      "url": "https://nathan-chevy-illustration-pricing.trycloudflare.com/api/v1"
+      "url": "https://viewed-swimming-rrp-road.trycloudflare.com/api/v1"
     },
     {
       "method": "GET",
       "path": "/api/v1/health",
-      "url": "https://nathan-chevy-illustration-pricing.trycloudflare.com/api/v1/health"
+      "url": "https://viewed-swimming-rrp-road.trycloudflare.com/api/v1/health"
     },
     {
       "method": "GET",
       "path": "/api/v1/ready",
-      "url": "https://nathan-chevy-illustration-pricing.trycloudflare.com/api/v1/ready"
+      "url": "https://viewed-swimming-rrp-road.trycloudflare.com/api/v1/ready"
     },
     {
       "method": "GET",
       "path": "/api/v1/info",
-      "url": "https://nathan-chevy-illustration-pricing.trycloudflare.com/api/v1/info"
+      "url": "https://viewed-swimming-rrp-road.trycloudflare.com/api/v1/info"
     },
     {
       "method": "GET",
       "path": "/api/v1/models",
-      "url": "https://nathan-chevy-illustration-pricing.trycloudflare.com/api/v1/models"
+      "url": "https://viewed-swimming-rrp-road.trycloudflare.com/api/v1/models"
     },
     {
       "method": "GET",
       "path": "/api/v1/config",
-      "url": "https://nathan-chevy-illustration-pricing.trycloudflare.com/api/v1/config"
+      "url": "https://viewed-swimming-rrp-road.trycloudflare.com/api/v1/config"
     },
     {
       "method": "GET",
       "path": "/api/v1/stats",
-      "url": "https://nathan-chevy-illustration-pricing.trycloudflare.com/api/v1/stats"
+      "url": "https://viewed-swimming-rrp-road.trycloudflare.com/api/v1/stats"
     },
     {
       "method": "GET",
       "path": "/health",
-      "url": "https://nathan-chevy-illustration-pricing.trycloudflare.com/health"
+      "url": "https://viewed-swimming-rrp-road.trycloudflare.com/health"
     }
   ],
-  "updated_at": "2026-11-19T22:27:20+00:00",
+  "updated_at": "2026-11-19T22:29:08+00:00",
   "run_url": "https://github.com/Mikaeel2114/ChatWebUI/actions/runs/44628743041",
-  "run_number": 9,
+  "run_number": 10,
   "commit": "66b8a2e"
 }
