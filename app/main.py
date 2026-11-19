@@ -47,7 +47,7 @@ KEY_FILE = ROOT_DIR / ".public_api_key"
 
 OLLAMA_BASE_URL = os.environ.get("OLLAMA_URL", "http://127.0.0.1:11434").rstrip("/")
 OLLAMA_MODEL = os.environ.get("MODEL_NAME", os.environ.get("OLLAMA_MODEL", "gpt-oss:20b"))
-OLLAMA_MATH_MODEL = os.environ.get("MATH_MODEL", "qwen3-vl:8b").strip() or "qwen3-vl:8b"
+OLLAMA_MATH_MODEL = os.environ.get("MATH_MODEL", "gpt-oss:20b").strip() or "gpt-oss:20b"
 OLLAMA_ROUTER_MODEL = os.environ.get("ROUTER_MODEL", "gemma3:1b").strip()
 MODEL_LABEL = os.environ.get("MODEL_LABEL", "Unicollect Chat Mini")
 MATH_MODEL_LABEL = os.environ.get("MATH_MODEL_LABEL", "Unicollect Math Model")

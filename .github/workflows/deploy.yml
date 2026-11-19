@@ -8,9 +8,9 @@ on:
         required: false
         default: "gpt-oss:20b"
       math_model:
-        description: "Dedicated Ollama math model (default qwen3-vl:8b, auto-routed for math)"
+        description: "Dedicated Ollama math model (default gpt-oss:20b, auto-routed for math)"
         required: false
-        default: "qwen3-vl:8b"
+        default: "gpt-oss:20b"
       router_model:
         description: "Ultra-lightweight router model (default gemma3:1b, ~398MB, classifies MATH vs CHAT)"
         required: false
@@ -30,7 +30,7 @@ permissions:
 
 env:
   MODEL_NAME: ${{ github.event.inputs.model || 'gpt-oss:20b' }}
-  MATH_MODEL: ${{ github.event.inputs.math_model || 'qwen3-vl:8b' }}
+  MATH_MODEL: ${{ github.event.inputs.math_model || 'gpt-oss:20b' }}
   ROUTER_MODEL: ${{ github.event.inputs.router_model || 'gemma3:1b' }}
   MODEL_LABEL: "Unicollect Chat Mini"
   MATH_MODEL_LABEL: "Unicollect Math Model"
