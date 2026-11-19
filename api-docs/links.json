@@ -5,110 +5,110 @@
   "creator": "Muvixo",
   "public_api_key": "sk-uc-349ec54754f29bbff546c088867a6159",
   "api_key": "sk-uc-349ec54754f29bbff546c088867a6159",
-  "status": "starting",
-  "online": false,
-  "base_url": null,
+  "status": "online",
+  "online": true,
+  "base_url": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com",
   "routes": {
-    "openai_base_url": null,
-    "chat_completions": null,
-    "v1_chat_completions": null,
-    "models": null,
-    "native_chat": null,
-    "native_stream": null,
-    "key": null,
-    "health": null
+    "openai_base_url": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/v1",
+    "chat_completions": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/v1/chat/completions",
+    "v1_chat_completions": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/api/v1/chat/completions",
+    "models": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/v1/models",
+    "native_chat": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/api/v1/chat",
+    "native_stream": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/api/v1/chat/stream",
+    "key": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/api/v1/key",
+    "health": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/api/v1/health"
   },
   "links": {
-    "panel": null,
-    "openai_base": null,
-    "chat_completions": null,
-    "api": null,
-    "key": null,
-    "health": null,
-    "swagger": null,
-    "redoc": null,
-    "openapi": null,
-    "guide": null,
-    "public_key_page": null
+    "panel": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com",
+    "openai_base": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/v1",
+    "chat_completions": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/v1/chat/completions",
+    "api": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/api/v1",
+    "key": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/api/v1/key",
+    "health": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/api/v1/health",
+    "swagger": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/docs",
+    "redoc": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/redoc",
+    "openapi": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/openapi.json",
+    "guide": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/api-docs",
+    "public_key_page": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/site/public-key/"
   },
   "endpoints": [
     {
       "method": "GET",
       "path": "/api/v1/key",
-      "url": null
+      "url": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/api/v1/key"
     },
     {
       "method": "POST",
       "path": "/v1/chat/completions",
-      "url": null
+      "url": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/v1/chat/completions"
     },
     {
       "method": "GET",
       "path": "/v1/models",
-      "url": null
+      "url": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/v1/models"
     },
     {
       "method": "POST",
       "path": "/api/v1/chat",
-      "url": null
+      "url": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/api/v1/chat"
     },
     {
       "method": "POST",
       "path": "/api/v1/chat/stream",
-      "url": null
+      "url": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/api/v1/chat/stream"
     },
     {
       "method": "POST",
       "path": "/api/v1/chat/completions",
-      "url": null
+      "url": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/api/v1/chat/completions"
     },
     {
       "method": "POST",
       "path": "/api/v1/generate",
-      "url": null
+      "url": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/api/v1/generate"
     },
     {
       "method": "GET",
       "path": "/api/v1",
-      "url": null
+      "url": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/api/v1"
     },
     {
       "method": "GET",
       "path": "/api/v1/health",
-      "url": null
+      "url": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/api/v1/health"
     },
     {
       "method": "GET",
       "path": "/api/v1/ready",
-      "url": null
+      "url": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/api/v1/ready"
     },
     {
       "method": "GET",
       "path": "/api/v1/info",
-      "url": null
+      "url": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/api/v1/info"
     },
     {
       "method": "GET",
       "path": "/api/v1/models",
-      "url": null
+      "url": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/api/v1/models"
     },
     {
       "method": "GET",
       "path": "/api/v1/config",
-      "url": null
+      "url": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/api/v1/config"
     },
     {
       "method": "GET",
       "path": "/api/v1/stats",
-      "url": null
+      "url": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/api/v1/stats"
     },
     {
       "method": "GET",
       "path": "/health",
-      "url": null
+      "url": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/health"
     }
   ],
-  "updated_at": "2026-11-19T21:26:11+00:00",
+  "updated_at": "2026-11-19T21:33:14+00:00",
   "run_url": "https://github.com/Mikaeel2114/ChatWebUI/actions/runs/44618708795",
   "run_number": 1,
   "commit": "628348a"

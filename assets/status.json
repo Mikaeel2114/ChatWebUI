@@ -1,22 +1,22 @@
 {
-  "status": "starting",
-  "url_payload": null,
+  "status": "online",
+  "url_payload": "aHR0cHM6Ly9jbG9ja3MtdXJnZW50LXRodW1ibmFpbHMtbGVnaXNsYXR1cmUudHJ5Y2xvdWRmbGFyZS5jb20=",
   "public_api_key": "sk-uc-349ec54754f29bbff546c088867a6159",
   "api_key": "sk-uc-349ec54754f29bbff546c088867a6159",
   "model": "یونیکالکت چت مینی",
   "model_id": "unicollect-chat-mini",
   "creator": "Muvixo",
   "routes": {
-    "openai_base_url": null,
-    "chat_completions": null,
-    "v1_chat_completions": null,
-    "models": null,
-    "native_chat": null,
-    "native_stream": null,
-    "key": null,
-    "health": null
+    "openai_base_url": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/v1",
+    "chat_completions": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/v1/chat/completions",
+    "v1_chat_completions": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/api/v1/chat/completions",
+    "models": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/v1/models",
+    "native_chat": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/api/v1/chat",
+    "native_stream": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/api/v1/chat/stream",
+    "key": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/api/v1/key",
+    "health": "https://clocks-urgent-thumbnails-legislature.trycloudflare.com/api/v1/health"
   },
-  "updated_at": "2026-11-19T21:26:11+00:00",
+  "updated_at": "2026-11-19T21:33:14+00:00",
   "run_url": "https://github.com/Mikaeel2114/ChatWebUI/actions/runs/44618708795",
   "run_number": 1,
   "commit": "628348a"
