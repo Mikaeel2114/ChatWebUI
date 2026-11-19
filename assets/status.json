@@ -1,23 +1,23 @@
 {
   "status": "online",
-  "url_payload": "aHR0cHM6Ly9wdXJjaGFzaW5nLWNvdXBsZXMtcGhlbm9tZW5vbi1pbml0aWFsbHkudHJ5Y2xvdWRmbGFyZS5jb20=",
-  "public_api_key": "sk-uc-dc7e150f1e04a6cba751915e819678d8",
-  "api_key": "sk-uc-dc7e150f1e04a6cba751915e819678d8",
+  "url_payload": "aHR0cHM6Ly9hYnJvYWQtY29sbGVjdGluZy1jb21taXNzaW9ucy1jb250cmlidXRvci50cnljbG91ZGZsYXJlLmNvbQ==",
+  "public_api_key": "sk-uc-5f052f9e170d413b2bf8a63b68ce5a31",
+  "api_key": "sk-uc-5f052f9e170d413b2bf8a63b68ce5a31",
   "model": "یونیکالکت چت مینی",
   "model_id": "unicollect-chat-mini",
   "creator": "Muvixo",
   "routes": {
-    "openai_base_url": "https://purchasing-couples-phenomenon-initially.trycloudflare.com/v1",
-    "chat_completions": "https://purchasing-couples-phenomenon-initially.trycloudflare.com/v1/chat/completions",
-    "v1_chat_completions": "https://purchasing-couples-phenomenon-initially.trycloudflare.com/api/v1/chat/completions",
-    "models": "https://purchasing-couples-phenomenon-initially.trycloudflare.com/v1/models",
-    "native_chat": "https://purchasing-couples-phenomenon-initially.trycloudflare.com/api/v1/chat",
-    "native_stream": "https://purchasing-couples-phenomenon-initially.trycloudflare.com/api/v1/chat/stream",
-    "key": "https://purchasing-couples-phenomenon-initially.trycloudflare.com/api/v1/key",
-    "health": "https://purchasing-couples-phenomenon-initially.trycloudflare.com/api/v1/health"
+    "openai_base_url": "https://abroad-collecting-commissions-contributor.trycloudflare.com/v1",
+    "chat_completions": "https://abroad-collecting-commissions-contributor.trycloudflare.com/v1/chat/completions",
+    "v1_chat_completions": "https://abroad-collecting-commissions-contributor.trycloudflare.com/api/v1/chat/completions",
+    "models": "https://abroad-collecting-commissions-contributor.trycloudflare.com/v1/models",
+    "native_chat": "https://abroad-collecting-commissions-contributor.trycloudflare.com/api/v1/chat",
+    "native_stream": "https://abroad-collecting-commissions-contributor.trycloudflare.com/api/v1/chat/stream",
+    "key": "https://abroad-collecting-commissions-contributor.trycloudflare.com/api/v1/key",
+    "health": "https://abroad-collecting-commissions-contributor.trycloudflare.com/api/v1/health"
   },
-  "updated_at": "2026-11-19T21:53:27+00:00",
+  "updated_at": "2026-11-19T21:56:32+00:00",
   "run_url": "https://github.com/Mikaeel2114/ChatWebUI/actions/runs/44623239310",
-  "run_number": 3,
+  "run_number": 5,
   "commit": "66b8a2e"
 }
