@@ -1,23 +1,23 @@
 {
   "status": "online",
-  "url_payload": "aHR0cHM6Ly9uZXdlci1xdWVlbnMtcG93ZXJmdWwtYXBwbGljYW50cy50cnljbG91ZGZsYXJlLmNvbQ==",
-  "public_api_key": "sk-uc-ea1c9d27ceb4154d47ab44c3ec5f87e2",
-  "api_key": "sk-uc-ea1c9d27ceb4154d47ab44c3ec5f87e2",
+  "url_payload": "aHR0cHM6Ly9wdXJjaGFzaW5nLWNvdXBsZXMtcGhlbm9tZW5vbi1pbml0aWFsbHkudHJ5Y2xvdWRmbGFyZS5jb20=",
+  "public_api_key": "sk-uc-dc7e150f1e04a6cba751915e819678d8",
+  "api_key": "sk-uc-dc7e150f1e04a6cba751915e819678d8",
   "model": "یونیکالکت چت مینی",
   "model_id": "unicollect-chat-mini",
   "creator": "Muvixo",
   "routes": {
-    "openai_base_url": "https://newer-queens-powerful-applicants.trycloudflare.com/v1",
-    "chat_completions": "https://newer-queens-powerful-applicants.trycloudflare.com/v1/chat/completions",
-    "v1_chat_completions": "https://newer-queens-powerful-applicants.trycloudflare.com/api/v1/chat/completions",
-    "models": "https://newer-queens-powerful-applicants.trycloudflare.com/v1/models",
-    "native_chat": "https://newer-queens-powerful-applicants.trycloudflare.com/api/v1/chat",
-    "native_stream": "https://newer-queens-powerful-applicants.trycloudflare.com/api/v1/chat/stream",
-    "key": "https://newer-queens-powerful-applicants.trycloudflare.com/api/v1/key",
-    "health": "https://newer-queens-powerful-applicants.trycloudflare.com/api/v1/health"
+    "openai_base_url": "https://purchasing-couples-phenomenon-initially.trycloudflare.com/v1",
+    "chat_completions": "https://purchasing-couples-phenomenon-initially.trycloudflare.com/v1/chat/completions",
+    "v1_chat_completions": "https://purchasing-couples-phenomenon-initially.trycloudflare.com/api/v1/chat/completions",
+    "models": "https://purchasing-couples-phenomenon-initially.trycloudflare.com/v1/models",
+    "native_chat": "https://purchasing-couples-phenomenon-initially.trycloudflare.com/api/v1/chat",
+    "native_stream": "https://purchasing-couples-phenomenon-initially.trycloudflare.com/api/v1/chat/stream",
+    "key": "https://purchasing-couples-phenomenon-initially.trycloudflare.com/api/v1/key",
+    "health": "https://purchasing-couples-phenomenon-initially.trycloudflare.com/api/v1/health"
   },
-  "updated_at": "2026-11-19T21:39:18+00:00",
-  "run_url": "https://github.com/Mikaeel2114/ChatWebUI/actions/runs/44620328716",
-  "run_number": 2,
+  "updated_at": "2026-11-19T21:44:40+00:00",
+  "run_url": "https://github.com/Mikaeel2114/ChatWebUI/actions/runs/44620725233",
+  "run_number": 3,
   "commit": "628348a"
 }
