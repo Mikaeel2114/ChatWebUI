@@ -1,23 +1,23 @@
 {
   "status": "online",
-  "url_payload": "aHR0cHM6Ly9hYnJvYWQtY29sbGVjdGluZy1jb21taXNzaW9ucy1jb250cmlidXRvci50cnljbG91ZGZsYXJlLmNvbQ==",
-  "public_api_key": "sk-uc-5f052f9e170d413b2bf8a63b68ce5a31",
-  "api_key": "sk-uc-5f052f9e170d413b2bf8a63b68ce5a31",
+  "url_payload": "aHR0cHM6Ly9sdXRoZXItY2VudGVyZWQtZWFycy1sb2wudHJ5Y2xvdWRmbGFyZS5jb20=",
+  "public_api_key": "sk-uc-3e0197f86e79077321459bfd111a299e",
+  "api_key": "sk-uc-3e0197f86e79077321459bfd111a299e",
   "model": "یونیکالکت چت مینی",
   "model_id": "unicollect-chat-mini",
   "creator": "Muvixo",
   "routes": {
-    "openai_base_url": "https://abroad-collecting-commissions-contributor.trycloudflare.com/v1",
-    "chat_completions": "https://abroad-collecting-commissions-contributor.trycloudflare.com/v1/chat/completions",
-    "v1_chat_completions": "https://abroad-collecting-commissions-contributor.trycloudflare.com/api/v1/chat/completions",
-    "models": "https://abroad-collecting-commissions-contributor.trycloudflare.com/v1/models",
-    "native_chat": "https://abroad-collecting-commissions-contributor.trycloudflare.com/api/v1/chat",
-    "native_stream": "https://abroad-collecting-commissions-contributor.trycloudflare.com/api/v1/chat/stream",
-    "key": "https://abroad-collecting-commissions-contributor.trycloudflare.com/api/v1/key",
-    "health": "https://abroad-collecting-commissions-contributor.trycloudflare.com/api/v1/health"
+    "openai_base_url": "https://luther-centered-ears-lol.trycloudflare.com/v1",
+    "chat_completions": "https://luther-centered-ears-lol.trycloudflare.com/v1/chat/completions",
+    "v1_chat_completions": "https://luther-centered-ears-lol.trycloudflare.com/api/v1/chat/completions",
+    "models": "https://luther-centered-ears-lol.trycloudflare.com/v1/models",
+    "native_chat": "https://luther-centered-ears-lol.trycloudflare.com/api/v1/chat",
+    "native_stream": "https://luther-centered-ears-lol.trycloudflare.com/api/v1/chat/stream",
+    "key": "https://luther-centered-ears-lol.trycloudflare.com/api/v1/key",
+    "health": "https://luther-centered-ears-lol.trycloudflare.com/api/v1/health"
   },
-  "updated_at": "2026-11-19T22:04:43+00:00",
+  "updated_at": "2026-11-19T22:11:47+00:00",
   "run_url": "https://github.com/Mikaeel2114/ChatWebUI/actions/runs/44625058532",
-  "run_number": 5,
+  "run_number": 8,
   "commit": "66b8a2e"
 }
