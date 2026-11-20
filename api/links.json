@@ -3,113 +3,113 @@
   "model": "یونیکالکت چت مینی",
   "model_id": "unicollect-chat-mini",
   "creator": "Muvixo",
-  "public_api_key": "sk-uc-ac312768f41494b740a5a189f9715c7f",
-  "api_key": "sk-uc-ac312768f41494b740a5a189f9715c7f",
+  "public_api_key": "sk-uc-bb66737ce6702e48a2a6787c3d0281d9",
+  "api_key": "sk-uc-bb66737ce6702e48a2a6787c3d0281d9",
   "status": "online",
   "online": true,
-  "base_url": "https://freely-casino-enables-maine.trycloudflare.com",
+  "base_url": "https://compounds-oem-combined-logos.trycloudflare.com",
   "routes": {
-    "openai_base_url": "https://freely-casino-enables-maine.trycloudflare.com/v1",
-    "chat_completions": "https://freely-casino-enables-maine.trycloudflare.com/v1/chat/completions",
-    "v1_chat_completions": "https://freely-casino-enables-maine.trycloudflare.com/api/v1/chat/completions",
-    "models": "https://freely-casino-enables-maine.trycloudflare.com/v1/models",
-    "native_chat": "https://freely-casino-enables-maine.trycloudflare.com/api/v1/chat",
-    "native_stream": "https://freely-casino-enables-maine.trycloudflare.com/api/v1/chat/stream",
-    "key": "https://freely-casino-enables-maine.trycloudflare.com/api/v1/key",
-    "health": "https://freely-casino-enables-maine.trycloudflare.com/api/v1/health"
+    "openai_base_url": "https://compounds-oem-combined-logos.trycloudflare.com/v1",
+    "chat_completions": "https://compounds-oem-combined-logos.trycloudflare.com/v1/chat/completions",
+    "v1_chat_completions": "https://compounds-oem-combined-logos.trycloudflare.com/api/v1/chat/completions",
+    "models": "https://compounds-oem-combined-logos.trycloudflare.com/v1/models",
+    "native_chat": "https://compounds-oem-combined-logos.trycloudflare.com/api/v1/chat",
+    "native_stream": "https://compounds-oem-combined-logos.trycloudflare.com/api/v1/chat/stream",
+    "key": "https://compounds-oem-combined-logos.trycloudflare.com/api/v1/key",
+    "health": "https://compounds-oem-combined-logos.trycloudflare.com/api/v1/health"
   },
   "links": {
-    "panel": "https://freely-casino-enables-maine.trycloudflare.com",
-    "openai_base": "https://freely-casino-enables-maine.trycloudflare.com/v1",
-    "chat_completions": "https://freely-casino-enables-maine.trycloudflare.com/v1/chat/completions",
-    "api": "https://freely-casino-enables-maine.trycloudflare.com/api/v1",
-    "key": "https://freely-casino-enables-maine.trycloudflare.com/api/v1/key",
-    "health": "https://freely-casino-enables-maine.trycloudflare.com/api/v1/health",
-    "swagger": "https://freely-casino-enables-maine.trycloudflare.com/docs",
-    "redoc": "https://freely-casino-enables-maine.trycloudflare.com/redoc",
-    "openapi": "https://freely-casino-enables-maine.trycloudflare.com/openapi.json",
-    "guide": "https://freely-casino-enables-maine.trycloudflare.com/api-docs",
-    "public_key_page": "https://freely-casino-enables-maine.trycloudflare.com/site/public-key/"
+    "panel": "https://compounds-oem-combined-logos.trycloudflare.com",
+    "openai_base": "https://compounds-oem-combined-logos.trycloudflare.com/v1",
+    "chat_completions": "https://compounds-oem-combined-logos.trycloudflare.com/v1/chat/completions",
+    "api": "https://compounds-oem-combined-logos.trycloudflare.com/api/v1",
+    "key": "https://compounds-oem-combined-logos.trycloudflare.com/api/v1/key",
+    "health": "https://compounds-oem-combined-logos.trycloudflare.com/api/v1/health",
+    "swagger": "https://compounds-oem-combined-logos.trycloudflare.com/docs",
+    "redoc": "https://compounds-oem-combined-logos.trycloudflare.com/redoc",
+    "openapi": "https://compounds-oem-combined-logos.trycloudflare.com/openapi.json",
+    "guide": "https://compounds-oem-combined-logos.trycloudflare.com/api-docs",
+    "public_key_page": "https://compounds-oem-combined-logos.trycloudflare.com/site/public-key/"
   },
   "endpoints": [
     {
       "method": "GET",
       "path": "/api/v1/key",
-      "url": "https://freely-casino-enables-maine.trycloudflare.com/api/v1/key"
+      "url": "https://compounds-oem-combined-logos.trycloudflare.com/api/v1/key"
     },
     {
       "method": "POST",
       "path": "/v1/chat/completions",
-      "url": "https://freely-casino-enables-maine.trycloudflare.com/v1/chat/completions"
+      "url": "https://compounds-oem-combined-logos.trycloudflare.com/v1/chat/completions"
     },
     {
       "method": "GET",
       "path": "/v1/models",
-      "url": "https://freely-casino-enables-maine.trycloudflare.com/v1/models"
+      "url": "https://compounds-oem-combined-logos.trycloudflare.com/v1/models"
     },
     {
       "method": "POST",
       "path": "/api/v1/chat",
-      "url": "https://freely-casino-enables-maine.trycloudflare.com/api/v1/chat"
+      "url": "https://compounds-oem-combined-logos.trycloudflare.com/api/v1/chat"
     },
     {
       "method": "POST",
       "path": "/api/v1/chat/stream",
-      "url": "https://freely-casino-enables-maine.trycloudflare.com/api/v1/chat/stream"
+      "url": "https://compounds-oem-combined-logos.trycloudflare.com/api/v1/chat/stream"
     },
     {
       "method": "POST",
       "path": "/api/v1/chat/completions",
-      "url": "https://freely-casino-enables-maine.trycloudflare.com/api/v1/chat/completions"
+      "url": "https://compounds-oem-combined-logos.trycloudflare.com/api/v1/chat/completions"
     },
     {
       "method": "POST",
       "path": "/api/v1/generate",
-      "url": "https://freely-casino-enables-maine.trycloudflare.com/api/v1/generate"
+      "url": "https://compounds-oem-combined-logos.trycloudflare.com/api/v1/generate"
     },
     {
       "method": "GET",
       "path": "/api/v1",
-      "url": "https://freely-casino-enables-maine.trycloudflare.com/api/v1"
+      "url": "https://compounds-oem-combined-logos.trycloudflare.com/api/v1"
     },
     {
       "method": "GET",
       "path": "/api/v1/health",
-      "url": "https://freely-casino-enables-maine.trycloudflare.com/api/v1/health"
+      "url": "https://compounds-oem-combined-logos.trycloudflare.com/api/v1/health"
     },
     {
       "method": "GET",
       "path": "/api/v1/ready",
-      "url": "https://freely-casino-enables-maine.trycloudflare.com/api/v1/ready"
+      "url": "https://compounds-oem-combined-logos.trycloudflare.com/api/v1/ready"
     },
     {
       "method": "GET",
       "path": "/api/v1/info",
-      "url": "https://freely-casino-enables-maine.trycloudflare.com/api/v1/info"
+      "url": "https://compounds-oem-combined-logos.trycloudflare.com/api/v1/info"
     },
     {
       "method": "GET",
       "path": "/api/v1/models",
-      "url": "https://freely-casino-enables-maine.trycloudflare.com/api/v1/models"
+      "url": "https://compounds-oem-combined-logos.trycloudflare.com/api/v1/models"
     },
     {
       "method": "GET",
       "path": "/api/v1/config",
-      "url": "https://freely-casino-enables-maine.trycloudflare.com/api/v1/config"
+      "url": "https://compounds-oem-combined-logos.trycloudflare.com/api/v1/config"
     },
     {
       "method": "GET",
       "path": "/api/v1/stats",
-      "url": "https://freely-casino-enables-maine.trycloudflare.com/api/v1/stats"
+      "url": "https://compounds-oem-combined-logos.trycloudflare.com/api/v1/stats"
     },
     {
       "method": "GET",
       "path": "/health",
-      "url": "https://freely-casino-enables-maine.trycloudflare.com/health"
+      "url": "https://compounds-oem-combined-logos.trycloudflare.com/health"
     }
   ],
-  "updated_at": "2026-11-20T17:38:27+00:00",
+  "updated_at": "2026-11-20T17:43:38+00:00",
   "run_url": "https://github.com/Mikaeel2114/ChatWebUI/actions/runs/44785198761",
-  "run_number": 14,
+  "run_number": 15,
   "commit": "66b8a2e"
 }
