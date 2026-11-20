@@ -1,23 +1,23 @@
 {
   "status": "online",
-  "url_payload": "aHR0cHM6Ly9mcm9udC1jb21mb3J0LXNvdWdodC1hbm5vdW5jZXMudHJ5Y2xvdWRmbGFyZS5jb20=",
-  "public_api_key": "sk-uc-d36c2e6f3e82da3535865edf134223e6",
-  "api_key": "sk-uc-d36c2e6f3e82da3535865edf134223e6",
+  "url_payload": "aHR0cHM6Ly9mcmVlbHktY2FzaW5vLWVuYWJsZXMtbWFpbmUudHJ5Y2xvdWRmbGFyZS5jb20=",
+  "public_api_key": "sk-uc-ac312768f41494b740a5a189f9715c7f",
+  "api_key": "sk-uc-ac312768f41494b740a5a189f9715c7f",
   "model": "یونیکالکت چت مینی",
   "model_id": "unicollect-chat-mini",
   "creator": "Muvixo",
   "routes": {
-    "openai_base_url": "https://front-comfort-sought-announces.trycloudflare.com/v1",
-    "chat_completions": "https://front-comfort-sought-announces.trycloudflare.com/v1/chat/completions",
-    "v1_chat_completions": "https://front-comfort-sought-announces.trycloudflare.com/api/v1/chat/completions",
-    "models": "https://front-comfort-sought-announces.trycloudflare.com/v1/models",
-    "native_chat": "https://front-comfort-sought-announces.trycloudflare.com/api/v1/chat",
-    "native_stream": "https://front-comfort-sought-announces.trycloudflare.com/api/v1/chat/stream",
-    "key": "https://front-comfort-sought-announces.trycloudflare.com/api/v1/key",
-    "health": "https://front-comfort-sought-announces.trycloudflare.com/api/v1/health"
+    "openai_base_url": "https://freely-casino-enables-maine.trycloudflare.com/v1",
+    "chat_completions": "https://freely-casino-enables-maine.trycloudflare.com/v1/chat/completions",
+    "v1_chat_completions": "https://freely-casino-enables-maine.trycloudflare.com/api/v1/chat/completions",
+    "models": "https://freely-casino-enables-maine.trycloudflare.com/v1/models",
+    "native_chat": "https://freely-casino-enables-maine.trycloudflare.com/api/v1/chat",
+    "native_stream": "https://freely-casino-enables-maine.trycloudflare.com/api/v1/chat/stream",
+    "key": "https://freely-casino-enables-maine.trycloudflare.com/api/v1/key",
+    "health": "https://freely-casino-enables-maine.trycloudflare.com/api/v1/health"
   },
-  "updated_at": "2026-11-20T12:52:44+00:00",
+  "updated_at": "2026-11-20T12:57:27+00:00",
   "run_url": "https://github.com/Mikaeel2114/ChatWebUI/actions/runs/44739435974",
-  "run_number": 13,
+  "run_number": 14,
   "commit": "66b8a2e"
 }
