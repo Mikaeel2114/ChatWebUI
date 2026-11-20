@@ -3,113 +3,113 @@
   "model": "یونیکالکت چت مینی",
   "model_id": "unicollect-chat-mini",
   "creator": "Muvixo",
-  "public_api_key": "sk-uc-c105d0531b03dfccfafaa6c169020617",
-  "api_key": "sk-uc-c105d0531b03dfccfafaa6c169020617",
+  "public_api_key": "sk-uc-e380d9ab5c9c8b718e336abc44178daf",
+  "api_key": "sk-uc-e380d9ab5c9c8b718e336abc44178daf",
   "status": "online",
   "online": true,
-  "base_url": "https://improving-movies-organize-eyed.trycloudflare.com",
+  "base_url": "https://solid-interference-blogs-analyzed.trycloudflare.com",
   "routes": {
-    "openai_base_url": "https://improving-movies-organize-eyed.trycloudflare.com/v1",
-    "chat_completions": "https://improving-movies-organize-eyed.trycloudflare.com/v1/chat/completions",
-    "v1_chat_completions": "https://improving-movies-organize-eyed.trycloudflare.com/api/v1/chat/completions",
-    "models": "https://improving-movies-organize-eyed.trycloudflare.com/v1/models",
-    "native_chat": "https://improving-movies-organize-eyed.trycloudflare.com/api/v1/chat",
-    "native_stream": "https://improving-movies-organize-eyed.trycloudflare.com/api/v1/chat/stream",
-    "key": "https://improving-movies-organize-eyed.trycloudflare.com/api/v1/key",
-    "health": "https://improving-movies-organize-eyed.trycloudflare.com/api/v1/health"
+    "openai_base_url": "https://solid-interference-blogs-analyzed.trycloudflare.com/v1",
+    "chat_completions": "https://solid-interference-blogs-analyzed.trycloudflare.com/v1/chat/completions",
+    "v1_chat_completions": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/chat/completions",
+    "models": "https://solid-interference-blogs-analyzed.trycloudflare.com/v1/models",
+    "native_chat": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/chat",
+    "native_stream": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/chat/stream",
+    "key": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/key",
+    "health": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/health"
   },
   "links": {
-    "panel": "https://improving-movies-organize-eyed.trycloudflare.com",
-    "openai_base": "https://improving-movies-organize-eyed.trycloudflare.com/v1",
-    "chat_completions": "https://improving-movies-organize-eyed.trycloudflare.com/v1/chat/completions",
-    "api": "https://improving-movies-organize-eyed.trycloudflare.com/api/v1",
-    "key": "https://improving-movies-organize-eyed.trycloudflare.com/api/v1/key",
-    "health": "https://improving-movies-organize-eyed.trycloudflare.com/api/v1/health",
-    "swagger": "https://improving-movies-organize-eyed.trycloudflare.com/docs",
-    "redoc": "https://improving-movies-organize-eyed.trycloudflare.com/redoc",
-    "openapi": "https://improving-movies-organize-eyed.trycloudflare.com/openapi.json",
-    "guide": "https://improving-movies-organize-eyed.trycloudflare.com/api-docs",
-    "public_key_page": "https://improving-movies-organize-eyed.trycloudflare.com/site/public-key/"
+    "panel": "https://solid-interference-blogs-analyzed.trycloudflare.com",
+    "openai_base": "https://solid-interference-blogs-analyzed.trycloudflare.com/v1",
+    "chat_completions": "https://solid-interference-blogs-analyzed.trycloudflare.com/v1/chat/completions",
+    "api": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1",
+    "key": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/key",
+    "health": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/health",
+    "swagger": "https://solid-interference-blogs-analyzed.trycloudflare.com/docs",
+    "redoc": "https://solid-interference-blogs-analyzed.trycloudflare.com/redoc",
+    "openapi": "https://solid-interference-blogs-analyzed.trycloudflare.com/openapi.json",
+    "guide": "https://solid-interference-blogs-analyzed.trycloudflare.com/api-docs",
+    "public_key_page": "https://solid-interference-blogs-analyzed.trycloudflare.com/site/public-key/"
   },
   "endpoints": [
     {
       "method": "GET",
       "path": "/api/v1/key",
-      "url": "https://improving-movies-organize-eyed.trycloudflare.com/api/v1/key"
+      "url": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/key"
     },
     {
       "method": "POST",
       "path": "/v1/chat/completions",
-      "url": "https://improving-movies-organize-eyed.trycloudflare.com/v1/chat/completions"
+      "url": "https://solid-interference-blogs-analyzed.trycloudflare.com/v1/chat/completions"
     },
     {
       "method": "GET",
       "path": "/v1/models",
-      "url": "https://improving-movies-organize-eyed.trycloudflare.com/v1/models"
+      "url": "https://solid-interference-blogs-analyzed.trycloudflare.com/v1/models"
     },
     {
       "method": "POST",
       "path": "/api/v1/chat",
-      "url": "https://improving-movies-organize-eyed.trycloudflare.com/api/v1/chat"
+      "url": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/chat"
     },
     {
       "method": "POST",
       "path": "/api/v1/chat/stream",
-      "url": "https://improving-movies-organize-eyed.trycloudflare.com/api/v1/chat/stream"
+      "url": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/chat/stream"
     },
     {
       "method": "POST",
       "path": "/api/v1/chat/completions",
-      "url": "https://improving-movies-organize-eyed.trycloudflare.com/api/v1/chat/completions"
+      "url": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/chat/completions"
     },
     {
       "method": "POST",
       "path": "/api/v1/generate",
-      "url": "https://improving-movies-organize-eyed.trycloudflare.com/api/v1/generate"
+      "url": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/generate"
     },
     {
       "method": "GET",
       "path": "/api/v1",
-      "url": "https://improving-movies-organize-eyed.trycloudflare.com/api/v1"
+      "url": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1"
     },
     {
       "method": "GET",
       "path": "/api/v1/health",
-      "url": "https://improving-movies-organize-eyed.trycloudflare.com/api/v1/health"
+      "url": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/health"
     },
     {
       "method": "GET",
       "path": "/api/v1/ready",
-      "url": "https://improving-movies-organize-eyed.trycloudflare.com/api/v1/ready"
+      "url": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/ready"
     },
     {
       "method": "GET",
       "path": "/api/v1/info",
-      "url": "https://improving-movies-organize-eyed.trycloudflare.com/api/v1/info"
+      "url": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/info"
     },
     {
       "method": "GET",
       "path": "/api/v1/models",
-      "url": "https://improving-movies-organize-eyed.trycloudflare.com/api/v1/models"
+      "url": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/models"
     },
     {
       "method": "GET",
       "path": "/api/v1/config",
-      "url": "https://improving-movies-organize-eyed.trycloudflare.com/api/v1/config"
+      "url": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/config"
     },
     {
       "method": "GET",
       "path": "/api/v1/stats",
-      "url": "https://improving-movies-organize-eyed.trycloudflare.com/api/v1/stats"
+      "url": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/stats"
     },
     {
       "method": "GET",
       "path": "/health",
-      "url": "https://improving-movies-organize-eyed.trycloudflare.com/health"
+      "url": "https://solid-interference-blogs-analyzed.trycloudflare.com/health"
     }
   ],
-  "updated_at": "2026-11-20T03:21:06+00:00",
+  "updated_at": "2026-11-20T03:23:54+00:00",
   "run_url": "https://github.com/Mikaeel2114/ChatWebUI/actions/runs/44667105938",
-  "run_number": 11,
+  "run_number": 12,
   "commit": "66b8a2e"
 }

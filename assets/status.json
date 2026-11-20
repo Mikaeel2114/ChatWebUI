@@ -1,23 +1,23 @@
 {
   "status": "online",
-  "url_payload": "aHR0cHM6Ly9pbXByb3ZpbmctbW92aWVzLW9yZ2FuaXplLWV5ZWQudHJ5Y2xvdWRmbGFyZS5jb20=",
-  "public_api_key": "sk-uc-c105d0531b03dfccfafaa6c169020617",
-  "api_key": "sk-uc-c105d0531b03dfccfafaa6c169020617",
+  "url_payload": "aHR0cHM6Ly9zb2xpZC1pbnRlcmZlcmVuY2UtYmxvZ3MtYW5hbHl6ZWQudHJ5Y2xvdWRmbGFyZS5jb20=",
+  "public_api_key": "sk-uc-e380d9ab5c9c8b718e336abc44178daf",
+  "api_key": "sk-uc-e380d9ab5c9c8b718e336abc44178daf",
   "model": "یونیکالکت چت مینی",
   "model_id": "unicollect-chat-mini",
   "creator": "Muvixo",
   "routes": {
-    "openai_base_url": "https://improving-movies-organize-eyed.trycloudflare.com/v1",
-    "chat_completions": "https://improving-movies-organize-eyed.trycloudflare.com/v1/chat/completions",
-    "v1_chat_completions": "https://improving-movies-organize-eyed.trycloudflare.com/api/v1/chat/completions",
-    "models": "https://improving-movies-organize-eyed.trycloudflare.com/v1/models",
-    "native_chat": "https://improving-movies-organize-eyed.trycloudflare.com/api/v1/chat",
-    "native_stream": "https://improving-movies-organize-eyed.trycloudflare.com/api/v1/chat/stream",
-    "key": "https://improving-movies-organize-eyed.trycloudflare.com/api/v1/key",
-    "health": "https://improving-movies-organize-eyed.trycloudflare.com/api/v1/health"
+    "openai_base_url": "https://solid-interference-blogs-analyzed.trycloudflare.com/v1",
+    "chat_completions": "https://solid-interference-blogs-analyzed.trycloudflare.com/v1/chat/completions",
+    "v1_chat_completions": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/chat/completions",
+    "models": "https://solid-interference-blogs-analyzed.trycloudflare.com/v1/models",
+    "native_chat": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/chat",
+    "native_stream": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/chat/stream",
+    "key": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/key",
+    "health": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/health"
   },
-  "updated_at": "2026-11-20T03:21:06+00:00",
+  "updated_at": "2026-11-20T03:23:54+00:00",
   "run_url": "https://github.com/Mikaeel2114/ChatWebUI/actions/runs/44667105938",
-  "run_number": 11,
+  "run_number": 12,
   "commit": "66b8a2e"
 }
