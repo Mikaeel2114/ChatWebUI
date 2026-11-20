@@ -3,113 +3,113 @@
   "model": "یونیکالکت چت مینی",
   "model_id": "unicollect-chat-mini",
   "creator": "Muvixo",
-  "public_api_key": "sk-uc-e380d9ab5c9c8b718e336abc44178daf",
-  "api_key": "sk-uc-e380d9ab5c9c8b718e336abc44178daf",
+  "public_api_key": "sk-uc-d36c2e6f3e82da3535865edf134223e6",
+  "api_key": "sk-uc-d36c2e6f3e82da3535865edf134223e6",
   "status": "online",
   "online": true,
-  "base_url": "https://solid-interference-blogs-analyzed.trycloudflare.com",
+  "base_url": "https://front-comfort-sought-announces.trycloudflare.com",
   "routes": {
-    "openai_base_url": "https://solid-interference-blogs-analyzed.trycloudflare.com/v1",
-    "chat_completions": "https://solid-interference-blogs-analyzed.trycloudflare.com/v1/chat/completions",
-    "v1_chat_completions": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/chat/completions",
-    "models": "https://solid-interference-blogs-analyzed.trycloudflare.com/v1/models",
-    "native_chat": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/chat",
-    "native_stream": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/chat/stream",
-    "key": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/key",
-    "health": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/health"
+    "openai_base_url": "https://front-comfort-sought-announces.trycloudflare.com/v1",
+    "chat_completions": "https://front-comfort-sought-announces.trycloudflare.com/v1/chat/completions",
+    "v1_chat_completions": "https://front-comfort-sought-announces.trycloudflare.com/api/v1/chat/completions",
+    "models": "https://front-comfort-sought-announces.trycloudflare.com/v1/models",
+    "native_chat": "https://front-comfort-sought-announces.trycloudflare.com/api/v1/chat",
+    "native_stream": "https://front-comfort-sought-announces.trycloudflare.com/api/v1/chat/stream",
+    "key": "https://front-comfort-sought-announces.trycloudflare.com/api/v1/key",
+    "health": "https://front-comfort-sought-announces.trycloudflare.com/api/v1/health"
   },
   "links": {
-    "panel": "https://solid-interference-blogs-analyzed.trycloudflare.com",
-    "openai_base": "https://solid-interference-blogs-analyzed.trycloudflare.com/v1",
-    "chat_completions": "https://solid-interference-blogs-analyzed.trycloudflare.com/v1/chat/completions",
-    "api": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1",
-    "key": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/key",
-    "health": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/health",
-    "swagger": "https://solid-interference-blogs-analyzed.trycloudflare.com/docs",
-    "redoc": "https://solid-interference-blogs-analyzed.trycloudflare.com/redoc",
-    "openapi": "https://solid-interference-blogs-analyzed.trycloudflare.com/openapi.json",
-    "guide": "https://solid-interference-blogs-analyzed.trycloudflare.com/api-docs",
-    "public_key_page": "https://solid-interference-blogs-analyzed.trycloudflare.com/site/public-key/"
+    "panel": "https://front-comfort-sought-announces.trycloudflare.com",
+    "openai_base": "https://front-comfort-sought-announces.trycloudflare.com/v1",
+    "chat_completions": "https://front-comfort-sought-announces.trycloudflare.com/v1/chat/completions",
+    "api": "https://front-comfort-sought-announces.trycloudflare.com/api/v1",
+    "key": "https://front-comfort-sought-announces.trycloudflare.com/api/v1/key",
+    "health": "https://front-comfort-sought-announces.trycloudflare.com/api/v1/health",
+    "swagger": "https://front-comfort-sought-announces.trycloudflare.com/docs",
+    "redoc": "https://front-comfort-sought-announces.trycloudflare.com/redoc",
+    "openapi": "https://front-comfort-sought-announces.trycloudflare.com/openapi.json",
+    "guide": "https://front-comfort-sought-announces.trycloudflare.com/api-docs",
+    "public_key_page": "https://front-comfort-sought-announces.trycloudflare.com/site/public-key/"
   },
   "endpoints": [
     {
       "method": "GET",
       "path": "/api/v1/key",
-      "url": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/key"
+      "url": "https://front-comfort-sought-announces.trycloudflare.com/api/v1/key"
     },
     {
       "method": "POST",
       "path": "/v1/chat/completions",
-      "url": "https://solid-interference-blogs-analyzed.trycloudflare.com/v1/chat/completions"
+      "url": "https://front-comfort-sought-announces.trycloudflare.com/v1/chat/completions"
     },
     {
       "method": "GET",
       "path": "/v1/models",
-      "url": "https://solid-interference-blogs-analyzed.trycloudflare.com/v1/models"
+      "url": "https://front-comfort-sought-announces.trycloudflare.com/v1/models"
     },
     {
       "method": "POST",
       "path": "/api/v1/chat",
-      "url": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/chat"
+      "url": "https://front-comfort-sought-announces.trycloudflare.com/api/v1/chat"
     },
     {
       "method": "POST",
       "path": "/api/v1/chat/stream",
-      "url": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/chat/stream"
+      "url": "https://front-comfort-sought-announces.trycloudflare.com/api/v1/chat/stream"
     },
     {
       "method": "POST",
       "path": "/api/v1/chat/completions",
-      "url": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/chat/completions"
+      "url": "https://front-comfort-sought-announces.trycloudflare.com/api/v1/chat/completions"
     },
     {
       "method": "POST",
       "path": "/api/v1/generate",
-      "url": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/generate"
+      "url": "https://front-comfort-sought-announces.trycloudflare.com/api/v1/generate"
     },
     {
       "method": "GET",
       "path": "/api/v1",
-      "url": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1"
+      "url": "https://front-comfort-sought-announces.trycloudflare.com/api/v1"
     },
     {
       "method": "GET",
       "path": "/api/v1/health",
-      "url": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/health"
+      "url": "https://front-comfort-sought-announces.trycloudflare.com/api/v1/health"
     },
     {
       "method": "GET",
       "path": "/api/v1/ready",
-      "url": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/ready"
+      "url": "https://front-comfort-sought-announces.trycloudflare.com/api/v1/ready"
     },
     {
       "method": "GET",
       "path": "/api/v1/info",
-      "url": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/info"
+      "url": "https://front-comfort-sought-announces.trycloudflare.com/api/v1/info"
     },
     {
       "method": "GET",
       "path": "/api/v1/models",
-      "url": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/models"
+      "url": "https://front-comfort-sought-announces.trycloudflare.com/api/v1/models"
     },
     {
       "method": "GET",
       "path": "/api/v1/config",
-      "url": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/config"
+      "url": "https://front-comfort-sought-announces.trycloudflare.com/api/v1/config"
     },
     {
       "method": "GET",
       "path": "/api/v1/stats",
-      "url": "https://solid-interference-blogs-analyzed.trycloudflare.com/api/v1/stats"
+      "url": "https://front-comfort-sought-announces.trycloudflare.com/api/v1/stats"
     },
     {
       "method": "GET",
       "path": "/health",
-      "url": "https://solid-interference-blogs-analyzed.trycloudflare.com/health"
+      "url": "https://front-comfort-sought-announces.trycloudflare.com/health"
     }
   ],
-  "updated_at": "2026-11-20T08:06:50+00:00",
+  "updated_at": "2026-11-20T08:10:11+00:00",
   "run_url": "https://github.com/Mikaeel2114/ChatWebUI/actions/runs/44699943475",
-  "run_number": 12,
+  "run_number": 13,
   "commit": "66b8a2e"
 }
