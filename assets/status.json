@@ -1,23 +1,23 @@
 {
   "status": "online",
-  "url_payload": "aHR0cHM6Ly9wYXJ0aWN1bGFyLWhlYWRzLWlzcC1tb25rZXkudHJ5Y2xvdWRmbGFyZS5jb20=",
-  "public_api_key": "sk-uc-47f65f02e5c2914aea5d76b20b81cffb",
-  "api_key": "sk-uc-47f65f02e5c2914aea5d76b20b81cffb",
+  "url_payload": "aHR0cHM6Ly9taWxscy1zeW1waG9ueS1pbnRyb2R1Y3Rpb24tbG9hZGluZy50cnljbG91ZGZsYXJlLmNvbQ==",
+  "public_api_key": "sk-uc-6ff8ff0989a717d8626c2978d692fdc3",
+  "api_key": "sk-uc-6ff8ff0989a717d8626c2978d692fdc3",
   "model": "یونیکالکت چت مینی",
   "model_id": "unicollect-chat-mini",
   "creator": "Muvixo",
   "routes": {
-    "openai_base_url": "https://particular-heads-isp-monkey.trycloudflare.com/v1",
-    "chat_completions": "https://particular-heads-isp-monkey.trycloudflare.com/v1/chat/completions",
-    "v1_chat_completions": "https://particular-heads-isp-monkey.trycloudflare.com/api/v1/chat/completions",
-    "models": "https://particular-heads-isp-monkey.trycloudflare.com/v1/models",
-    "native_chat": "https://particular-heads-isp-monkey.trycloudflare.com/api/v1/chat",
-    "native_stream": "https://particular-heads-isp-monkey.trycloudflare.com/api/v1/chat/stream",
-    "key": "https://particular-heads-isp-monkey.trycloudflare.com/api/v1/key",
-    "health": "https://particular-heads-isp-monkey.trycloudflare.com/api/v1/health"
+    "openai_base_url": "https://mills-symphony-introduction-loading.trycloudflare.com/v1",
+    "chat_completions": "https://mills-symphony-introduction-loading.trycloudflare.com/v1/chat/completions",
+    "v1_chat_completions": "https://mills-symphony-introduction-loading.trycloudflare.com/api/v1/chat/completions",
+    "models": "https://mills-symphony-introduction-loading.trycloudflare.com/v1/models",
+    "native_chat": "https://mills-symphony-introduction-loading.trycloudflare.com/api/v1/chat",
+    "native_stream": "https://mills-symphony-introduction-loading.trycloudflare.com/api/v1/chat/stream",
+    "key": "https://mills-symphony-introduction-loading.trycloudflare.com/api/v1/key",
+    "health": "https://mills-symphony-introduction-loading.trycloudflare.com/api/v1/health"
   },
-  "updated_at": "2026-11-21T03:10:17+00:00",
+  "updated_at": "2026-11-21T03:13:10+00:00",
   "run_url": "https://github.com/Mikaeel2114/ChatWebUI/actions/runs/44859697727",
-  "run_number": 16,
+  "run_number": 17,
   "commit": "66b8a2e"
 }
