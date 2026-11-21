@@ -3,113 +3,113 @@
   "model": "یونیکالکت چت مینی",
   "model_id": "unicollect-chat-mini",
   "creator": "Muvixo",
-  "public_api_key": "sk-uc-6ff8ff0989a717d8626c2978d692fdc3",
-  "api_key": "sk-uc-6ff8ff0989a717d8626c2978d692fdc3",
+  "public_api_key": "sk-uc-d63119acb47e6895332820ef17cd844e",
+  "api_key": "sk-uc-d63119acb47e6895332820ef17cd844e",
   "status": "online",
   "online": true,
-  "base_url": "https://mills-symphony-introduction-loading.trycloudflare.com",
+  "base_url": "https://patio-anyway-framework-cart.trycloudflare.com",
   "routes": {
-    "openai_base_url": "https://mills-symphony-introduction-loading.trycloudflare.com/v1",
-    "chat_completions": "https://mills-symphony-introduction-loading.trycloudflare.com/v1/chat/completions",
-    "v1_chat_completions": "https://mills-symphony-introduction-loading.trycloudflare.com/api/v1/chat/completions",
-    "models": "https://mills-symphony-introduction-loading.trycloudflare.com/v1/models",
-    "native_chat": "https://mills-symphony-introduction-loading.trycloudflare.com/api/v1/chat",
-    "native_stream": "https://mills-symphony-introduction-loading.trycloudflare.com/api/v1/chat/stream",
-    "key": "https://mills-symphony-introduction-loading.trycloudflare.com/api/v1/key",
-    "health": "https://mills-symphony-introduction-loading.trycloudflare.com/api/v1/health"
+    "openai_base_url": "https://patio-anyway-framework-cart.trycloudflare.com/v1",
+    "chat_completions": "https://patio-anyway-framework-cart.trycloudflare.com/v1/chat/completions",
+    "v1_chat_completions": "https://patio-anyway-framework-cart.trycloudflare.com/api/v1/chat/completions",
+    "models": "https://patio-anyway-framework-cart.trycloudflare.com/v1/models",
+    "native_chat": "https://patio-anyway-framework-cart.trycloudflare.com/api/v1/chat",
+    "native_stream": "https://patio-anyway-framework-cart.trycloudflare.com/api/v1/chat/stream",
+    "key": "https://patio-anyway-framework-cart.trycloudflare.com/api/v1/key",
+    "health": "https://patio-anyway-framework-cart.trycloudflare.com/api/v1/health"
   },
   "links": {
-    "panel": "https://mills-symphony-introduction-loading.trycloudflare.com",
-    "openai_base": "https://mills-symphony-introduction-loading.trycloudflare.com/v1",
-    "chat_completions": "https://mills-symphony-introduction-loading.trycloudflare.com/v1/chat/completions",
-    "api": "https://mills-symphony-introduction-loading.trycloudflare.com/api/v1",
-    "key": "https://mills-symphony-introduction-loading.trycloudflare.com/api/v1/key",
-    "health": "https://mills-symphony-introduction-loading.trycloudflare.com/api/v1/health",
-    "swagger": "https://mills-symphony-introduction-loading.trycloudflare.com/docs",
-    "redoc": "https://mills-symphony-introduction-loading.trycloudflare.com/redoc",
-    "openapi": "https://mills-symphony-introduction-loading.trycloudflare.com/openapi.json",
-    "guide": "https://mills-symphony-introduction-loading.trycloudflare.com/api-docs",
-    "public_key_page": "https://mills-symphony-introduction-loading.trycloudflare.com/site/public-key/"
+    "panel": "https://patio-anyway-framework-cart.trycloudflare.com",
+    "openai_base": "https://patio-anyway-framework-cart.trycloudflare.com/v1",
+    "chat_completions": "https://patio-anyway-framework-cart.trycloudflare.com/v1/chat/completions",
+    "api": "https://patio-anyway-framework-cart.trycloudflare.com/api/v1",
+    "key": "https://patio-anyway-framework-cart.trycloudflare.com/api/v1/key",
+    "health": "https://patio-anyway-framework-cart.trycloudflare.com/api/v1/health",
+    "swagger": "https://patio-anyway-framework-cart.trycloudflare.com/docs",
+    "redoc": "https://patio-anyway-framework-cart.trycloudflare.com/redoc",
+    "openapi": "https://patio-anyway-framework-cart.trycloudflare.com/openapi.json",
+    "guide": "https://patio-anyway-framework-cart.trycloudflare.com/api-docs",
+    "public_key_page": "https://patio-anyway-framework-cart.trycloudflare.com/site/public-key/"
   },
   "endpoints": [
     {
       "method": "GET",
       "path": "/api/v1/key",
-      "url": "https://mills-symphony-introduction-loading.trycloudflare.com/api/v1/key"
+      "url": "https://patio-anyway-framework-cart.trycloudflare.com/api/v1/key"
     },
     {
       "method": "POST",
       "path": "/v1/chat/completions",
-      "url": "https://mills-symphony-introduction-loading.trycloudflare.com/v1/chat/completions"
+      "url": "https://patio-anyway-framework-cart.trycloudflare.com/v1/chat/completions"
     },
     {
       "method": "GET",
       "path": "/v1/models",
-      "url": "https://mills-symphony-introduction-loading.trycloudflare.com/v1/models"
+      "url": "https://patio-anyway-framework-cart.trycloudflare.com/v1/models"
     },
     {
       "method": "POST",
       "path": "/api/v1/chat",
-      "url": "https://mills-symphony-introduction-loading.trycloudflare.com/api/v1/chat"
+      "url": "https://patio-anyway-framework-cart.trycloudflare.com/api/v1/chat"
     },
     {
       "method": "POST",
       "path": "/api/v1/chat/stream",
-      "url": "https://mills-symphony-introduction-loading.trycloudflare.com/api/v1/chat/stream"
+      "url": "https://patio-anyway-framework-cart.trycloudflare.com/api/v1/chat/stream"
     },
     {
       "method": "POST",
       "path": "/api/v1/chat/completions",
-      "url": "https://mills-symphony-introduction-loading.trycloudflare.com/api/v1/chat/completions"
+      "url": "https://patio-anyway-framework-cart.trycloudflare.com/api/v1/chat/completions"
     },
     {
       "method": "POST",
       "path": "/api/v1/generate",
-      "url": "https://mills-symphony-introduction-loading.trycloudflare.com/api/v1/generate"
+      "url": "https://patio-anyway-framework-cart.trycloudflare.com/api/v1/generate"
     },
     {
       "method": "GET",
       "path": "/api/v1",
-      "url": "https://mills-symphony-introduction-loading.trycloudflare.com/api/v1"
+      "url": "https://patio-anyway-framework-cart.trycloudflare.com/api/v1"
     },
     {
       "method": "GET",
       "path": "/api/v1/health",
-      "url": "https://mills-symphony-introduction-loading.trycloudflare.com/api/v1/health"
+      "url": "https://patio-anyway-framework-cart.trycloudflare.com/api/v1/health"
     },
     {
       "method": "GET",
       "path": "/api/v1/ready",
-      "url": "https://mills-symphony-introduction-loading.trycloudflare.com/api/v1/ready"
+      "url": "https://patio-anyway-framework-cart.trycloudflare.com/api/v1/ready"
     },
     {
       "method": "GET",
       "path": "/api/v1/info",
-      "url": "https://mills-symphony-introduction-loading.trycloudflare.com/api/v1/info"
+      "url": "https://patio-anyway-framework-cart.trycloudflare.com/api/v1/info"
     },
     {
       "method": "GET",
       "path": "/api/v1/models",
-      "url": "https://mills-symphony-introduction-loading.trycloudflare.com/api/v1/models"
+      "url": "https://patio-anyway-framework-cart.trycloudflare.com/api/v1/models"
     },
     {
       "method": "GET",
       "path": "/api/v1/config",
-      "url": "https://mills-symphony-introduction-loading.trycloudflare.com/api/v1/config"
+      "url": "https://patio-anyway-framework-cart.trycloudflare.com/api/v1/config"
     },
     {
       "method": "GET",
       "path": "/api/v1/stats",
-      "url": "https://mills-symphony-introduction-loading.trycloudflare.com/api/v1/stats"
+      "url": "https://patio-anyway-framework-cart.trycloudflare.com/api/v1/stats"
     },
     {
       "method": "GET",
       "path": "/health",
-      "url": "https://mills-symphony-introduction-loading.trycloudflare.com/health"
+      "url": "https://patio-anyway-framework-cart.trycloudflare.com/health"
     }
   ],
-  "updated_at": "2026-11-21T07:55:46+00:00",
+  "updated_at": "2026-11-21T07:59:08+00:00",
   "run_url": "https://github.com/Mikaeel2114/ChatWebUI/actions/runs/44882472532",
-  "run_number": 17,
+  "run_number": 18,
   "commit": "66b8a2e"
 }

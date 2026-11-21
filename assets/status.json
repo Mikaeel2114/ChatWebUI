@@ -1,23 +1,23 @@
 {
   "status": "online",
-  "url_payload": "aHR0cHM6Ly9taWxscy1zeW1waG9ueS1pbnRyb2R1Y3Rpb24tbG9hZGluZy50cnljbG91ZGZsYXJlLmNvbQ==",
-  "public_api_key": "sk-uc-6ff8ff0989a717d8626c2978d692fdc3",
-  "api_key": "sk-uc-6ff8ff0989a717d8626c2978d692fdc3",
+  "url_payload": "aHR0cHM6Ly9wYXRpby1hbnl3YXktZnJhbWV3b3JrLWNhcnQudHJ5Y2xvdWRmbGFyZS5jb20=",
+  "public_api_key": "sk-uc-d63119acb47e6895332820ef17cd844e",
+  "api_key": "sk-uc-d63119acb47e6895332820ef17cd844e",
   "model": "یونیکالکت چت مینی",
   "model_id": "unicollect-chat-mini",
   "creator": "Muvixo",
   "routes": {
-    "openai_base_url": "https://mills-symphony-introduction-loading.trycloudflare.com/v1",
-    "chat_completions": "https://mills-symphony-introduction-loading.trycloudflare.com/v1/chat/completions",
-    "v1_chat_completions": "https://mills-symphony-introduction-loading.trycloudflare.com/api/v1/chat/completions",
-    "models": "https://mills-symphony-introduction-loading.trycloudflare.com/v1/models",
-    "native_chat": "https://mills-symphony-introduction-loading.trycloudflare.com/api/v1/chat",
-    "native_stream": "https://mills-symphony-introduction-loading.trycloudflare.com/api/v1/chat/stream",
-    "key": "https://mills-symphony-introduction-loading.trycloudflare.com/api/v1/key",
-    "health": "https://mills-symphony-introduction-loading.trycloudflare.com/api/v1/health"
+    "openai_base_url": "https://patio-anyway-framework-cart.trycloudflare.com/v1",
+    "chat_completions": "https://patio-anyway-framework-cart.trycloudflare.com/v1/chat/completions",
+    "v1_chat_completions": "https://patio-anyway-framework-cart.trycloudflare.com/api/v1/chat/completions",
+    "models": "https://patio-anyway-framework-cart.trycloudflare.com/v1/models",
+    "native_chat": "https://patio-anyway-framework-cart.trycloudflare.com/api/v1/chat",
+    "native_stream": "https://patio-anyway-framework-cart.trycloudflare.com/api/v1/chat/stream",
+    "key": "https://patio-anyway-framework-cart.trycloudflare.com/api/v1/key",
+    "health": "https://patio-anyway-framework-cart.trycloudflare.com/api/v1/health"
   },
-  "updated_at": "2026-11-21T07:55:46+00:00",
+  "updated_at": "2026-11-21T07:59:08+00:00",
   "run_url": "https://github.com/Mikaeel2114/ChatWebUI/actions/runs/44882472532",
-  "run_number": 17,
+  "run_number": 18,
   "commit": "66b8a2e"
 }
